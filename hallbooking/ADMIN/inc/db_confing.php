@@ -2,7 +2,7 @@
   
    $hname ='localhost';
    $uname = 'root';
-   $pass = '';
+   $pass = 'Admin@123';
    $db = 'hallbooking';
 
 $con = mysqli_connect($hname, $uname, $pass, $db);
